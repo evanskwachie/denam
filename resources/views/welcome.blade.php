@@ -11,6 +11,7 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
       <link href="/css/font-awesome.min.css" rel="stylesheet">
+      <link rel="icon" href="/img/ll.jpg" type="image/gif" sizes="16x16">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,7 +35,7 @@
         <!-- ////logo and title -->
         <div class='lgo'>
           <div class='img-holder'>
-            <img src="123.png"/>
+            <img src="/img/ll.jpg" class="img img-responsive">
           </div>
           <div class='title-holder'>
             <span>Denam</span>
